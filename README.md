@@ -6,11 +6,12 @@ Ce template doit permettre à tout un chacun de publier facilement un CV sur int
 
 ## Consignes :
 * Vous devrez imiter le mieux possible la présentation et la mise en page proposée sur le template.
-* Vous rechercherez la police la plus proche possible de celle utilisée sur l'image. Si vous ne trouvez pas la police exacte, vous utiliserez **Times New Roman**
+* Vous rechercherez aussi la police utilisée sur l'image.
 * Vous utiliserez les 3 couleurs suivantes :
 * * Bleu foncé : #2F4858
 * * Bleu clair : #86BBD8
 * * Vert clair : #9FE694
+* * Titres dans la colonne de gauche : #3A5768
 * * Fond de la trame principale : #FAF8F8
 * Vous utiliserez la photo fournie [photo fournie](avatar.jpg)
 
