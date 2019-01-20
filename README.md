@@ -1,4 +1,4 @@
-# Imiter c'est intégrer !
+# Imiter et intégrer
 _Réalisez l'intégration d'un template simple de CV_
 
 Votre mission si vous l'acceptez sera de réaliser l'intégration du template présenté dans le fichier _template.png_.
