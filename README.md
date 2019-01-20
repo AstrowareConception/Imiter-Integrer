@@ -9,6 +9,6 @@ Pour y parvenir, vous devrez suivre les consignes suivantes :
 * Vous rechercherez la police la plus proche possible de celle utilisée sur l'image.
 * Si vous ne trouvez pas la police exacte, vous utiliserez **Times New Roman**
 * Vous utiliserez les 3 couleurs suivantes :
- * Bleu foncé : #2F4858
- * Bleu clair : #86BBD8
- * Vert clair : #9FE694
+** Bleu foncé : #2F4858
+** Bleu clair : #86BBD8
+** Vert clair : #9FE694
