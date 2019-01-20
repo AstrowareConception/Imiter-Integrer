@@ -12,7 +12,7 @@ Ce template doit permettre à tout un chacun de publier facilement un CV sur int
 * * Bleu clair : #86BBD8
 * * Vert clair : #9FE694
 * * Fond de la trame principale : #FAF8F8
-* Vous utiliserez la photo fournie _avatar.jpg_
+* Vous utiliserez la photo fournie [photo fournie](avatar.jpg)
 
 ## Pour aller plus loin
 Une fois votre template correctement intégré vous pourrez ajouter les améliorations suivantes :
