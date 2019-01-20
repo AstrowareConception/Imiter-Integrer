@@ -17,5 +17,6 @@ Ce template doit permettre à tout un chacun de publier facilement un CV sur int
 ## Pour aller plus loin
 Une fois votre template correctement intégré vous pourrez ajouter les améliorations suivantes :
 * Rajouter de nouvelles sections et étoffer le contenu
+* Réaliser un _footer_ adapté.
 * Créer des variantes, notamment en modifiant le jeu de couleurs utilisées. Vous pourrez par exemple utiliser un fichier CSS par variante
 * Utiliser votre template pour réaliser votre propre CV, avec vos infos
