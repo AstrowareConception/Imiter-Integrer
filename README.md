@@ -1,7 +1,7 @@
 # Imiter et intégrer
 _Réalisez l'intégration d'un template simple de CV_
 
-Votre mission si vous l'acceptez sera de réaliser l'intégration du template présenté dans le fichier _template.png_.
+Votre mission si vous l'acceptez sera de réaliser l'intégration du template présenté dans le fichier [template.png](template.png).
 Ce template doit permettre à tout un chacun de publier facilement un CV sur internet en le personnalisant, en y ajoutant ses propres informations personnelles.
 
 ## Consignes :
